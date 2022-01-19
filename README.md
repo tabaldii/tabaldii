@@ -1,6 +1,5 @@
 ### 🤵🏻‍ Anderson Henrique Grosselli Tabaldi
 
-❤️ Soccer and G.F.P.A fan!
 
 <div> 
   <a href="https://t.me/andersontabaldi" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
@@ -11,6 +10,7 @@
 <div >
   <a href="https://github.com/tabaldii">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=tabaldii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <br>
   <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabaldii&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
