@@ -11,7 +11,7 @@
   <a href="https://github.com/tabaldii">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=tabaldii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <br>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabaldii&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabaldii&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 
