@@ -49,12 +49,3 @@ Sempre em busca de unir minha visão técnica e analítica com a melhor experiê
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tabaldii&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabaldii&layout=compact&theme=tokyonight" />
-</p>
-
----
