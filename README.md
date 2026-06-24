@@ -1,6 +1,6 @@
 # Olá 👋, eu sou Anderson Tabaldi
 
-🚀 **Desenvolvedor Full Stack** 🇧🇷 Brasil
+🚀 **Desenvolvedor Full Stack**
 
 Desenvolvo **APIs escaláveis**, **microsserviços** e **sistemas web de alta performance**.  
 Tenho uma base sólida em **Quality Assurance (QA)**, o que me faz focar intensamente em **arquitetura, testes, código limpo e estabilidade do produto**.
@@ -25,7 +25,7 @@ Sempre em busca de unir minha visão técnica e analítica com a melhor experiê
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🛠️ Stacks
 
 ### Backend & Arquitetura
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
